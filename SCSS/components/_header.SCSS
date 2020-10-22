@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+header {
+    width: 90%;
+    height: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    .logo-container {
+        flex: 1;
+        display: flex;
+        h4 {
+            font-weight: 400;
+            margin: 5px;
+        }
+    }
+    .menu {
+        flex: 2;
+        ul {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        li {
+            list-style: none;
+            a {
+                color: #5f5f79;
+                font-size: 18px;
+                text-decoration: none;
+            }
+        }
+    }
+    .cart {
+        flex: 1;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
