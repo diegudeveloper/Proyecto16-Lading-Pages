@@ -195,6 +195,12 @@ header .cart {
     bottom: 100px;
   }
 }
+@media only screen and (max-device-width: 360px) {
+  .btn {
+    /* Styles */
+    bottom: 10px;
+  }
+}
 
 .big {
   position: absolute;
