@@ -15,13 +15,13 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 16](https:
 <details>
     <summary>🖥 Desktop version</summary>
 
-![]()
+![](https://github.com/diegudeveloper/Proyecto16-Lading-Pages/blob/gh-pages/img/desktop.png)
 
 </details>
 
 <details>
     <summary>📱 Mobile version</summary>
     
-![]()
+![](https://github.com/diegudeveloper/Proyecto16-Lading-Pages/blob/gh-pages/img/movil.png)
 
 </details>
